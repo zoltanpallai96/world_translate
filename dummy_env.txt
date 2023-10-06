@@ -1,0 +1,5 @@
+MYSQL_PASSWORD=mysecretpassword
+MYSQL_DATABASE=wordtranslatedb
+MYSQL_USER=wordtranslate
+
+DATABASE_URL=mysql+pymysql://wordtranslate:YOUR_PASSWORD_HERE@db/wordtranslatedb
